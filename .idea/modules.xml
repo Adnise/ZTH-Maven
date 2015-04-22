@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ZIUA 2.iml" filepath="$PROJECT_DIR$/ZIUA 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld-main.iml" filepath="$PROJECT_DIR$/helloworld-main.iml" />
     </modules>
   </component>
 </project>

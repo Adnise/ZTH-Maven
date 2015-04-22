@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ZIUA 2" />
+        <module name="helloworld-main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ZIUA 2" target="1.5" />
+      <module name="helloworld-main" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
